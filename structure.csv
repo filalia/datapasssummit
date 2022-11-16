@@ -1,0 +1,12 @@
+tableSource;field;DataType;CreateinSqlDB;location
+Product;ProductID;int;O;Gold/Product/**
+Product;Name;nvarchar;O;Gold/Product/**
+Product;CategoryName;nvarchar;O;Gold/Product/**
+Sales;SalesOrderID;int;O;Gold/Sales/**
+Sales;ORderDate;datetime;O;Gold/Sales/**
+Sales;OnlineOrderFlag;bit;O;Gold/Sales/**
+Sales;SalesOrderNumber;nvarchar;O;Gold/Sales/**
+Sales;TotalDue;money;O;Gold/Sales/**
+Sales;ProductID;int;O;Gold/Sales/**
+Sales;OrderQty;smallint;O;Gold/Sales/**
+Sales;LineTotal;numeric;O;Gold/Sales/**
